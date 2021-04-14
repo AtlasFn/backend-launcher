@@ -1,0 +1,18 @@
+{
+  "created": "2021-02-02T11:05:37.261Z",
+  "updated": "2021-02-02T11:05:37.261Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "Sparkle",
+  "profileId": "common_public",
+  "version": "fortnite_start",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "banner_color": "",
+      "homebase_name": "",
+      "banner_icon": ""
+    }
+  },
+  "_id": "Sparkle"
+}

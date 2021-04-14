@@ -1,0 +1,18 @@
+{
+  "created": "2021-02-08T14:31:03.040Z",
+  "updated": "2021-02-08T14:31:03.040Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "testprofile",
+  "profileId": "common_public",
+  "version": "fortnite_start",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "banner_color": "",
+      "homebase_name": "",
+      "banner_icon": ""
+    }
+  },
+  "_id": "testprofile"
+}
